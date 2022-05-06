@@ -43,7 +43,7 @@ header nav a:hover{
     color: #fff;
 }
 
-/*filme principal*/
+/*jogo principal*/
 
 .jogoprincipal{
     font-size: 16px;
@@ -81,6 +81,7 @@ header nav a:hover{
 
     cursor: pointer;
     transition: .3s;
+
 }
 
 .botao:hover{
@@ -118,4 +119,17 @@ header nav a:hover{
 
 .titulo-lista{
     margin-top: 30px;
+    margin-left: 10px;
+}
+
+.rodape {
+    margin-top: 30px;
+    padding-top: 100px;
+}
+
+.rodape-texto{
+    margin-left: 5px;
+    color: var(--vermelho);
+    font-family: 'Arial Black', Times;
+    font-size: 40px;
 }
